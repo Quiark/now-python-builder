@@ -1,12 +1,11 @@
 {
-  "name": "@now/python",
+  "name": "now-python-builder",
   "version": "0.1.0-canary.2",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeit/now-builders.git",
-    "directory": "packages/now-python"
+    "url": "https://github.com/quiark/now-python-builder.git"
   },
   "scripts": {
     "build": "tsc",
